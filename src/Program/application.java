@@ -20,6 +20,7 @@ public class application {
         }
         catch(IOException e){
             System.out.println("Error: " + e.getMessage());
+            // Codigo Mais limpo que a versão anterior
         }
     }
 
